@@ -1,0 +1,1 @@
+dotnet ef database update --project "C:\Users\Allan\Documents\MacEwan University\EF3Data\NewProject\Infrastructure\EF3Data.Infrastructure.csproj" --startup-project "C:\Users\Allan\Documents\MacEwan University\EF3Data\NewProject\EF3Data.API\EF3Data.API.csproj" 
